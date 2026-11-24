@@ -1,0 +1,12 @@
+# Data and artifacts stay on Google Drive / Kaggle (too large for git)
+dataset/
+**/dataset/
+**/models/
+**/tensorboard/
+**/configs/
+*.zip
+*.pth
+
+# Notebook / OS clutter
+.ipynb_checkpoints/
+.DS_Store
